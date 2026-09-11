@@ -1,0 +1,6 @@
+
+TO PUSH A UPDATE ON GITHUB
+OPEN TERMINAL
+git add .
+git commit -m 'name'
+git psuh
